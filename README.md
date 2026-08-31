@@ -10,7 +10,7 @@
 <br>
 💡 Passionate about Technology & Innovation
 
-I’m a 24-year-old tech enthusiast from Rio de Janeiro with a solid technical foundation in Electrotechnics and currently advancing my expertise through a degree in Systems Analysis and Development at UNISUAM.
+I’m a 25-year-old tech enthusiast from Rio de Janeiro with a solid technical foundation in Electrotechnics and currently advancing my expertise through a degree in Systems Analysis and Development at UNISUAM.
 
 Driven by curiosity and a deep passion for technology, I’m focused on building a career in software development, always seeking to learn, grow, and contribute to innovative solutions. Open to networking, collaborations, and new opportunities in the tech world!
 
